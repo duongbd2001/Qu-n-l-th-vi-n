@@ -1,0 +1,7 @@
+C:\Users\Admin\Desktop\duongbd\HK5\Java\BaiTap\BTL_CSDL\Visual_Studio\Library_Management\Model\bin\Debug\Model.dll.config
+C:\Users\Admin\Desktop\duongbd\HK5\Java\BaiTap\BTL_CSDL\Visual_Studio\Library_Management\Model\bin\Debug\Model.dll
+C:\Users\Admin\Desktop\duongbd\HK5\Java\BaiTap\BTL_CSDL\Visual_Studio\Library_Management\Model\bin\Debug\Model.pdb
+C:\Users\Admin\Desktop\duongbd\HK5\Java\BaiTap\BTL_CSDL\Visual_Studio\Library_Management\Model\obj\Debug\Model.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\duongbd\HK5\Java\BaiTap\BTL_CSDL\Visual_Studio\Library_Management\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\duongbd\HK5\Java\BaiTap\BTL_CSDL\Visual_Studio\Library_Management\Model\obj\Debug\Model.dll
+C:\Users\Admin\Desktop\duongbd\HK5\Java\BaiTap\BTL_CSDL\Visual_Studio\Library_Management\Model\obj\Debug\Model.pdb

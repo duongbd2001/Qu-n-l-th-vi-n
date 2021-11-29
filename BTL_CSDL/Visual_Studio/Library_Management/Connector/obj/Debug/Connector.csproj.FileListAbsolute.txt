@@ -1,0 +1,7 @@
+C:\Users\Admin\Desktop\duongbd\HK5\Java\BaiTap\BTL_CSDL\Visual_Studio\Library_Management\Connector\bin\Debug\Connector.dll.config
+C:\Users\Admin\Desktop\duongbd\HK5\Java\BaiTap\BTL_CSDL\Visual_Studio\Library_Management\Connector\bin\Debug\Connector.dll
+C:\Users\Admin\Desktop\duongbd\HK5\Java\BaiTap\BTL_CSDL\Visual_Studio\Library_Management\Connector\bin\Debug\Connector.pdb
+C:\Users\Admin\Desktop\duongbd\HK5\Java\BaiTap\BTL_CSDL\Visual_Studio\Library_Management\Connector\obj\Debug\Connector.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\duongbd\HK5\Java\BaiTap\BTL_CSDL\Visual_Studio\Library_Management\Connector\obj\Debug\Connector.dll
+C:\Users\Admin\Desktop\duongbd\HK5\Java\BaiTap\BTL_CSDL\Visual_Studio\Library_Management\Connector\obj\Debug\Connector.pdb
+C:\Users\Admin\Desktop\duongbd\HK5\Java\BaiTap\BTL_CSDL\Visual_Studio\Library_Management\Connector\obj\Debug\Connector.csprojAssemblyReference.cache

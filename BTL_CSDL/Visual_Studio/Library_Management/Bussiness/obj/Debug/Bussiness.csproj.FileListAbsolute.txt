@@ -1,0 +1,16 @@
+C:\Users\Admin\Desktop\duongbd\HK5\Java\BaiTap\BTL_CSDL\Visual_Studio\Library_Management\Bussiness\bin\Debug\Bussiness.dll.config
+C:\Users\Admin\Desktop\duongbd\HK5\Java\BaiTap\BTL_CSDL\Visual_Studio\Library_Management\Bussiness\bin\Debug\Bussiness.dll
+C:\Users\Admin\Desktop\duongbd\HK5\Java\BaiTap\BTL_CSDL\Visual_Studio\Library_Management\Bussiness\bin\Debug\Bussiness.pdb
+C:\Users\Admin\Desktop\duongbd\HK5\Java\BaiTap\BTL_CSDL\Visual_Studio\Library_Management\Bussiness\bin\Debug\Connector.dll
+C:\Users\Admin\Desktop\duongbd\HK5\Java\BaiTap\BTL_CSDL\Visual_Studio\Library_Management\Bussiness\bin\Debug\DAO.dll
+C:\Users\Admin\Desktop\duongbd\HK5\Java\BaiTap\BTL_CSDL\Visual_Studio\Library_Management\Bussiness\bin\Debug\Model.dll
+C:\Users\Admin\Desktop\duongbd\HK5\Java\BaiTap\BTL_CSDL\Visual_Studio\Library_Management\Bussiness\bin\Debug\Connector.pdb
+C:\Users\Admin\Desktop\duongbd\HK5\Java\BaiTap\BTL_CSDL\Visual_Studio\Library_Management\Bussiness\bin\Debug\Connector.dll.config
+C:\Users\Admin\Desktop\duongbd\HK5\Java\BaiTap\BTL_CSDL\Visual_Studio\Library_Management\Bussiness\bin\Debug\DAO.pdb
+C:\Users\Admin\Desktop\duongbd\HK5\Java\BaiTap\BTL_CSDL\Visual_Studio\Library_Management\Bussiness\bin\Debug\Model.pdb
+C:\Users\Admin\Desktop\duongbd\HK5\Java\BaiTap\BTL_CSDL\Visual_Studio\Library_Management\Bussiness\bin\Debug\Model.dll.config
+C:\Users\Admin\Desktop\duongbd\HK5\Java\BaiTap\BTL_CSDL\Visual_Studio\Library_Management\Bussiness\obj\Debug\Bussiness.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\duongbd\HK5\Java\BaiTap\BTL_CSDL\Visual_Studio\Library_Management\Bussiness\obj\Debug\Bussiness.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\duongbd\HK5\Java\BaiTap\BTL_CSDL\Visual_Studio\Library_Management\Bussiness\obj\Debug\Bussiness.csproj.CopyComplete
+C:\Users\Admin\Desktop\duongbd\HK5\Java\BaiTap\BTL_CSDL\Visual_Studio\Library_Management\Bussiness\obj\Debug\Bussiness.dll
+C:\Users\Admin\Desktop\duongbd\HK5\Java\BaiTap\BTL_CSDL\Visual_Studio\Library_Management\Bussiness\obj\Debug\Bussiness.pdb
